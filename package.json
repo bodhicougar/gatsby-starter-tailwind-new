@@ -53,10 +53,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oddstronaut/gatsby-starter-tailwind"
+    "url": "https://github.com/bodhicougar/gatsby-starter-tailwind-new"
   },
   "bugs": {
-    "url": "https://github.com/oddstronaut/gatsby-starter-tailwind/issues"
+    "url": "https://github.com/bodhicougar/gatsby-starter-tailwind-new/issues"
   },
   "publishConfig": {
     "access": "public"
